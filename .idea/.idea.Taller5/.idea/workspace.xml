@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b295a6e-ac4b-47f8-a6c0-85ed689b99b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/TowerObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Taller5/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Taller5/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Taller5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Taller5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Serialization.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Serialization.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Utilities.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Utilities.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Serialization.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Serialization.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Utilities.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Utilities.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/_BushCircle/BallonPrefab.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/_BushCircle/BallonPrefab.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/_BushCircle/MazePrefab.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/_BushCircle/MazePrefab.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/_BushCircle/PointPrefab.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/_BushCircle/PointPrefab.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/_BushCircle/Towers/BounceTowerPrefab.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/_BushCircle/Towers/BounceTowerPrefab.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/_BushCircle/Towers/CircleTowerPrefab.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/_BushCircle/Towers/CircleTowerPrefab.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/_BushCircle/Towers/CruzTowerPrefab.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/_BushCircle/Towers/CruzTowerPrefab.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/_BushCircle/Towers/FreezeTowerPrefab.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/_BushCircle/Towers/FreezeTowerPrefab.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/_BushCircle/Towers/TowerPrefab.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/_BushCircle/Towers/TowerPrefab.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/_BushCircle/Towers/XTowerPrefab.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/_BushCircle/Towers/XTowerPrefab.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/_BushCircle/Level2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/_BushCircle/Level2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/_BushCircle/Level2.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/_BushCircle/Level2.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/_BushCircle/MainScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/_BushCircle/MainScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameplayFrameWork/AI/AIPerception.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameplayFrameWork/AI/AIPerception.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameplayFrameWork/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameplayFrameWork/GameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameplayFrameWork/Helpers/Enums.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameplayFrameWork/Helpers/Enums.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameplayFrameWork/Projectilecomponent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameplayFrameWork/Projectilecomponent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameplayFrameWork/UI/UIGameOverSubCanvas.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameplayFrameWork/UI/UIGameOverSubCanvas.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameplayFrameWork/UI/UIGameplaySubCanvas.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameplayFrameWork/UI/UIGameplaySubCanvas.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameplayFrameWork/UI/UIMainMenuSubCanvas.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameplayFrameWork/UI/UIMainMenuSubCanvas.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameplayFrameWork/UI/UIRoundOverSubCanvas.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameplayFrameWork/UI/UIRoundOverSubCanvas.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameplayFrameWork/UI/UISubCanvas.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameplayFrameWork/UI/UISubCanvas.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/CinemachineShake.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/CinemachineShake.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/DestroyArea.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/DestroyArea.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/GameManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/GameManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/MyScriptableObject/ThrowableObjectSO.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/MyScriptableObject/ThrowableObjectSO/MazeObject.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/MyScriptableObject/ThrowableObjectSO/MazeObject.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/MyScriptableObject/ThrowableObjectSO/PointObject.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/MyScriptableObject/ThrowableObjectSO/PointObject.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/MyScriptableObject/ThrowableObjectSO/ThrowableObject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/MyScriptableObject/ThrowableObjectSO/ThrowableObject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/MyScriptableObject/TowerObjectSO.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/MyScriptableObject/TowerObjectSO/BounceTower.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/MyScriptableObject/TowerObjectSO/BounceTower.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/MyScriptableObject/TowerObjectSO/CircleTower.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/MyScriptableObject/TowerObjectSO/CircleTower.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/MyScriptableObject/TowerObjectSO/CruzTower.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/MyScriptableObject/TowerObjectSO/CruzTower.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/MyScriptableObject/TowerObjectSO/FreezeTower.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/MyScriptableObject/TowerObjectSO/FreezeTower.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/MyScriptableObject/TowerObjectSO/TowerObject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/MyScriptableObject/TowerObjectSO/TowerObject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/MyScriptableObject/TowerObjectSO/XTower.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/MyScriptableObject/TowerObjectSO/XTower.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/ObjectController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/BallObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/ObjectController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/BallObject.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/ObjectManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/BallObjectManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/ObjectManager.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/BallObjectManager.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/ThrowableObjectController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/DraggableObjectController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/ThrowableObjectController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/DraggableObjectController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/ThrowableObjectManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/DraggableObjectManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/ThrowableObjectManager.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/DraggableObjectManager.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/TowerController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/TowerController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/TowerObject.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/TowerManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/TowerManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/UI/BarCanvas.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/UI/UIOptionSubCanvas.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/UI/BarCanvas.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/UI/UIOptionSubCanvas.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/UI/GameOverCanvas.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/UI/GameOverCanvas.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/UI/GameplayCanvas.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/UI/GameplayCanvas.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/UI/RoundOverCanvas.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/UI/RoundOverCanvas.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/UI/StartCanvas.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/_BushCircle/UI/StartCanvas.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2348FB5E-CC9E-4E68-9F37-F7D7FADAEA9A/8f/57e73b5e/DOTween.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/_BushCircle/DestroyArea.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2348FB5E-CC9E-4E68-9F37-F7D7FADAEA9A/62/0208ac2c/TweenSettingsExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/_BushCircle/DraggableRotationAreaDetect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/_BushCircle/TowerObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameplayFrameWork/AddScoreToGameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2348FB5E-CC9E-4E68-9F37-F7D7FADAEA9A/a4/6d2d49c4/DOSetter`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2348FB5E-CC9E-4E68-9F37-F7D7FADAEA9A/7a/212a55e3/TweenCallback.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Taller4/Assets/Scripts/UI/RoundOverCanvas.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2348FB5E-CC9E-4E68-9F37-F7D7FADAEA9A/42/5e1ce9b8/Tween.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2348FB5E-CC9E-4E68-9F37-F7D7FADAEA9A/bf/64728978/ABSSequentiable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9674024A-B0E7-4D27-BBE9-EAA30DAB34D1/0e/6735c2ef/Debug.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/_BushCircle/MyProjectile/ProjectileBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/_BushCircle/DraggableObjectManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/_BushCircle/MySave.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2348FB5E-CC9E-4E68-9F37-F7D7FADAEA9A/ff/2f6092cb/TweenManager.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/TowerManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/UI/UIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/MyTouchManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameplayFrameWork/AddScoreToGameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/ThrowableDetect.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameplayFrameWork/Helpers/Enums.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/UI/UIWinCountUpdate.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/ObjectManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/ObjectController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/MyProjectile/ProjectilController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/ThrowableObjectController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/UI/UIWinCountUpdateComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/MyScriptableObject/TowerObjectSO/TowerObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/TowerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/MyProjectile/ProjectilBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/ThrowableObjectManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/DragObjectController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/DragObjectManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/UI/GameOverCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/UI/GameplayCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/UI/RoundOverCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/UI/StartCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/DraggableRotationAreaDetect.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameplayFrameWork/UI/UIGameplaySubCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/BallObjectManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/UI/BarCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameplayFrameWork/UI/UIMainMenuSubCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameplayFrameWork/AI/AIPerception.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameplayFrameWork/Projectilecomponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/MyProjectile/ProjectileBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/MyProjectile/ProjectileHeavy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/MyProjectile/ProjectileBasic.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/BlockZone.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameplayFrameWork/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/UI/ButtonNext.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/UI/ButtonRetry.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/UI/ButtonHome.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/UI/ButtonLevel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameplayFrameWork/UI/UIGameOverSubCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/DestroyArea.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/Selector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/DraggableObjectController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameplayFrameWork/UI/UIRoundOverSubCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameplayFrameWork/UI/UISubCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/BallObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/UI/UIOptionSubCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/TowerObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/CinemachineShake.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/MySave.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_BushCircle/DraggableObjectManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jqZiFPYYRUtIOeWwWz6OZ5iRdb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b295a6e-ac4b-47f8-a6c0-85ed689b99b9" name="Default Changelist" comment="" />
+      <created>1604533716958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604533716958</updated>
+      <workItem from="1604533732143" duration="1877000" />
+      <workItem from="1604588245622" duration="1462000" />
+      <workItem from="1604759228636" duration="594000" />
+      <workItem from="1604783814296" duration="1249000" />
+      <workItem from="1604844014960" duration="24155000" />
+      <workItem from="1604891738197" duration="289000" />
+      <workItem from="1604892067175" duration="362000" />
+      <workItem from="1604934388385" duration="29047000" />
+      <workItem from="1605062368609" duration="3919000" />
+      <workItem from="1605101224236" duration="11739000" />
+      <workItem from="1605125873728" duration="13934000" />
+      <workItem from="1605140028004" duration="10965000" />
+      <workItem from="1605198074257" duration="12005000" />
+      <workItem from="1605279152753" duration="16495000" />
+      <workItem from="1605306650183" duration="3864000" />
+      <workItem from="1605360889354" duration="27115000" />
+      <workItem from="1605443937744" duration="34899000" />
+      <workItem from="1605531500456" duration="23608000" />
+      <workItem from="1605611884571" duration="37900000" />
+      <workItem from="1605680043374" duration="893000" />
+      <workItem from="1605702601486" duration="2924000" />
+      <workItem from="1605708515085" duration="2609000" />
+      <workItem from="1605711638990" duration="424000" />
+      <workItem from="1605716721629" duration="1418000" />
+      <workItem from="1605832569836" duration="3428000" />
+      <workItem from="1605875647462" duration="100000" />
+      <workItem from="1605889545087" duration="2281000" />
+      <workItem from="1606056737837" duration="808000" />
+      <workItem from="1606520017923" duration="2966000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="727" y="264" key="RiderGenerateDialog" timestamp="1605132486738">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="727" y="264" key="RiderGenerateDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1605132486738" />
+    <state x="92" y="92" width="1736" height="896" key="VCS.FileHistoryDialog" timestamp="1605655145679">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="92" y="92" width="1736" height="896" key="VCS.FileHistoryDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1605655145679" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605283830337">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1605283830337" />
+    <state x="615" y="250" key="run.anything.popup" timestamp="1605138334879">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="615" y="250" key="run.anything.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1605138334879" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1605835831963">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1605835831963" />
+  </component>
+</project>
